@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi 👋 I'm Nathália Figueredo 
 
-<!--
-**Nathaliapfigueredo/nathaliapfigueredo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🌍 I'm a Software Engineering student at [Inteli](https://www.inteli.edu.br/) - Institute of Technology and Leadership
+- 🌱 I’m currently learning about Machine Learning and Data Science
+- 🎯 I'm committed to use technology as a tool for social inclusion, empowering communities.
+- 👩‍💻 Softwatre Developer for Social Impact
+- ✨ My strengths lie in leadership, strategic vision, and leveraging technology for social impact.
+- 😄 Pronouns: she/her
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Fun fact
+🔭 I was a member of the first and only robotics group on my IFRS campus, and I was **completely passionate** about spending afternoons working on robotics with children.
+
+
+## Meet my buddy 
+
+
+</br>
+<h3 align="left">Connect with me </h3>
+<p align="left">
+<a href="www.linkedin.com/in/nathaliafigueredo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="NathaliaFigueredo" height="30" width="40" /></a>
+<a href="https://www.instagram.com/nathaliafigueredo__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nathaliafigueredo__" height="30" width="40" /></a>
+  
+<a> Email: nathalia.figueredo@sou.inteli.edu.br</a></p>
+
+
+
+
+
