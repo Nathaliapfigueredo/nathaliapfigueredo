@@ -4,8 +4,7 @@
 - 🌍 I'm a Software Engineering student at [Inteli](https://www.inteli.edu.br/) - Institute of Technology and Leadership
 - 🌱 I’m currently learning about Machine Learning and Data Science
 - 🎯 I'm committed to use technology as a tool for social inclusion, empowering communities.
-- 👩‍💻 Softwatre Developer for Social Impact
-- ✨ My strengths lie in leadership, strategic vision, and leveraging technology for social impact.
+- 👩‍💻 My strengths lie in leadership and leveraging technology for social impact.
 - 😄 Pronouns: she/her
 - 👧 Meet my buddy: [Paula](https://github.com/Paula-zp)
 
