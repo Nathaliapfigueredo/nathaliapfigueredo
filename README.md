@@ -13,7 +13,7 @@
 
 
 ## Meet my buddy 
-
+[Paula](https://github.com/Paula-zp)
 
 </br>
 <h3 align="left">Connect with me </h3>
