@@ -6,20 +6,22 @@
 - 🎯 I'm committed to use technology as a tool for social inclusion, empowering communities.
 - 👩‍💻 My strengths lie in leadership and leveraging technology for social impact.
 - 😄 Pronouns: she/her
-- 👧 Meet my buddy: [Paula](https://github.com/Paula-zp)
-
+  
 
 ## Fun fact
 🔭 I was a member of the first and only robotics group on my IFRS campus, and I was **completely passionate** about spending afternoons working on robotics with children.
 
-
-## Connect with me 
-</br>
-<p align="left">
+## Connect with me </br><p align="left">
 <a href="www.linkedin.com/in/nathaliafigueredo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="NathaliaFigueredo" height="30" width="40" /></a>
 <a href="https://www.instagram.com/nathaliafigueredo__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nathaliafigueredo__" height="30" width="40" /></a>
   
 <a> Email: nathalia.figueredo@sou.inteli.edu.br</a></p>
+
+<a> 
+</a>
+
+
+## Meet my buddy: [Paula](https://github.com/Paula-zp)
 
 
 
