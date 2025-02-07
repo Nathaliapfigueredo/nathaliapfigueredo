@@ -21,9 +21,6 @@
 </a>
 
 
-## Meet my buddy: [Paula](https://github.com/Paula-zp)
-
-
 
 
 
