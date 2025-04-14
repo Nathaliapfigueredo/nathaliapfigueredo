@@ -8,8 +8,6 @@
 - 😄 Pronouns: she/her
   
 
-## Fun fact
-🔭 I was a member of the first and only robotics group on my IFRS campus, and I was **completely passionate** about spending afternoons working on robotics with children.
 
 ## Connect with me </br><p align="left">
 <a href="www.linkedin.com/in/nathaliafigueredo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="NathaliaFigueredo" height="30" width="40" /></a>
